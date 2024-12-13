@@ -3,8 +3,11 @@ numero = input('Ingresa el numero: ')
 
 def carrera(numero):
     print(numero)
-    for num in numero:
-        print(num)
+    lista = []
+    for num in numero: 
+        lista.append(num)
+    print(lista)
+
     
 
 carrera(numero)
