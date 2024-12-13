@@ -2,9 +2,9 @@
 
 El examen constara de resolver 3 problemas, utilizando los lenguajes "Python o Javascript":
 
-Nombre del Estudiante: Escobar Ceseña Ricardo
-Matrícula: 20760258
-Materia en Recuperación: Desarrollo de Backend II
+### Nombre del Estudiante: Escobar Ceseña Ricardo
+### Matrícula: 20760258
+### Materia en Recuperación: Desarrollo de Backend II
 
 ## Requisitos técnicos ##
 
